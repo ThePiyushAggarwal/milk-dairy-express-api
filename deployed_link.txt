@@ -1,0 +1,3 @@
+Deployed Link: https://milk-dairy-express-api.herokuapp.com/
+
+Postman Documentation: https://documenter.getpostman.com/view/19789580/VUjLLmkX
